@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="loja.xsl" ?>
+
+<loja>
+<categoria id="1" description="Cadernos">
+<produto id="11">
+<descricao>Caderno Univ. 100 folhas</descricao>
+<preco>25.80</preco>
+</produto>
+<produto id="12">
+<descricao>Caderno Univ. 10 mat.</descricao>
+<preco>33.50</preco>
+</produto>
+</categoria>
+<categoria id="2" description="Reguas">
+<produto id="21">
+<descricao>Regua Comum, 20cm</descricao>
+<preco>0.80</preco>
+</produto>
+<produto id="22">
+<descricao>Esquadro 15x20cm</descricao>
+<preco>1.10</preco>
+</produto>
+</categoria>
+</loja>
+
